@@ -1,2 +1,2 @@
 # vue-note-app
-Vue Notebook App
+Vue Notebook App (Vue & VueX)
